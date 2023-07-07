@@ -1,5 +1,5 @@
 import React from "react"
-import cat from "./cat.jpg"
+import cat from "./josh.jpg"
  
  export default function Info (){
      return <div className ="info" >
