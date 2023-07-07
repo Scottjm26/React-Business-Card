@@ -1,0 +1,130 @@
+* {
+  box-sizing: border-box;
+}
+body{
+   background-color:#23252C;
+   padding-top:20px;
+}
+.body{
+  background-color:#1A1B21;
+  width:317px;
+  text-align: center;
+  margin:0 auto;
+  border-radius: 10px;
+}
+.website{
+  margin-bottom:25px;
+}
+.email-button{
+  text-decoration: none;
+  background-color:white;
+  padding-right:105px;
+  padding-left:105px;
+  padding-top:8px;
+  padding-bottom:8px;
+  border-radius:6px;
+  color:#161619;
+  font-size:14px;
+  font-weight:600;
+}
+.about{
+  text-align: start;
+  margin:0 auto;
+  width:247px;
+  
+}
+.interest{
+  text-align: start;
+  margin:0 auto;
+  width:247px;
+  margin-bottom:40px;
+}
+.cat-image{
+  margin:0px;
+  padding:0px;
+  width:317px;
+  height:317px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+h1{
+  font-weight:bold;
+  font-size:25px;
+  color:#ffffff;
+}
+h2{
+  color:#F3BF99;
+  font-weight:regular;
+  font-size:12.8px;
+}
+h3{
+  color:#F5F5F5;
+  font-weight:bold;
+  font-size:16px;
+  margin:0px;
+  margin-top:25px;
+  margin-bottom:5px;
+}
+p{
+  margin:0px;
+  color:#DCDCDC;
+  font-size:10.24px;
+}
+
+.footer-buttons{
+  display:flex;
+  align-items: center;
+  padding-right:10px;
+  justify-content: center;
+  background-color:#161619;
+  height:64px;
+  border-radius: 10px;
+}
+.facebook-icon{
+  background: url(./facebook.png);
+  background-size:cover;
+  width:25px;
+  height:25px;
+  border:none;
+  margin:10px;
+  filter: invert(50%);
+  
+}
+.github-icon{
+  background: url(./github.png);
+  background-size:cover;
+  width:30px;
+  height:29px;
+  border:none;
+  margin:10px;
+  filter: invert(50%);
+}
+.instagram-icon{
+  background: url(./instagram.png);
+  background-size:cover;
+  width:27px;
+  height:27px;
+  border:none;
+  margin:10px;
+  filter: invert(50%);
+  
+}
+.linkedin-icon{
+  background: url(./linkedin.png);
+  background-size:cover;
+  width:27px;
+  height:27px;
+  border:none;
+  margin:10px;
+  filter: invert(50%);
+  
+}
+.twitter-icon{
+  background: url(./twitter.png);
+  background-size:cover;
+  width:27px;
+  height:27px;
+  border:none;
+  margin:10px;
+  filter: invert(50%);
+}
